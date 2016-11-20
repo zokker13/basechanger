@@ -1,6 +1,6 @@
 const should = require('should');
 
-const anybase = require('./../');
+const basechanger = require('./../');
 
 describe('basechanger#changeBase()', () => {
 
