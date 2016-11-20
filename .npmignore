@@ -1,0 +1,9 @@
+# Files
+yarn.lock
+.npmignore
+.gitignore
+.travis.yml
+
+# Folders
+node_modules/
+test/
